@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Online tech book store](https://bookie-gekz.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://janfolio-l36k.vercel.app/](https://janfolio-l36k.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shiva-folio.vercel.app/](https://shiva-folio.vercel.app/)
 
 - 💬 Ask me about **Front-end tools and libraries**
 
