@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Online pet shop](https://tikko.onrender.com/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **DSA** **Concepts**
 
 - 👯 I’m looking to collaborate on [Online tech book store](https://bookie-gekz.onrender.com/)
 
