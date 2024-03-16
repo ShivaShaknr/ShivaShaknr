@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Shiva Shankar Manivasakan</h1>
 <h3>An enthusiastic frontend developer from India, deeply committed to creating seamless user interfaces and enhancing digital interactions.</h3>
 
-- 🔭 I’m currently working on [Online pet shop](https://tikko.onrender.com/)
+- 🔭 I’m currently working on [FrontEnd.io](https://www.frontendmentor.io/profile/ShivaShaknr)
 
 - 🌱 I’m currently learning **DSA** **Concepts**
 
